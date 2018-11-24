@@ -1,0 +1,2 @@
+rem 使用HibernateAnnotationFactory作为处理器工厂来处理Person.java中的Annotation
+apt -factory HibernateAnnotationFactory Person.java

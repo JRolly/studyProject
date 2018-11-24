@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="testC++">
+</Property><Property Name="解决方案文件" Value="E:\Project\C&amp;&amp;C++\testC++\testC++.sln">
+</Property><Property Name="用户选项文件" Value="E:\Project\C&amp;&amp;C++\testC++\testC++.suo">
+</Property><Property Name="Date" Value="2015年10月5日, 星期一">
+</Property><Property Name="Time" Value="11:48">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="testC++.sln" Description="文件已成功备份为 E:\Project\C&amp;&amp;C++\testC++\testC++.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="testC++.suo" Description="文件已成功备份为 E:\Project\C&amp;&amp;C++\testC++\testC++.suo.old">
+</Event><Event ErrorLevel="0" Project="testC++" Source="testC++\testC++.vcproj" Description="Converting project file 'E:\Project\C&amp;&amp;C++\testC++\testC++\testC++.vcproj'.">
+</Event><Event ErrorLevel="1" Project="testC++" Source="testC++\testC++.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="testC++" Source="testC++\testC++.vcproj" Description="Done converting to new project file 'E:\Project\C&amp;&amp;C++\testC++\testC++\testC++.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="testC++" Source="testC++\testC++.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="test2" Source="test2\test2.vcproj" Description="Converting project file 'E:\Project\C&amp;&amp;C++\testC++\test2\test2.vcproj'.">
+</Event><Event ErrorLevel="1" Project="test2" Source="test2\test2.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="test2" Source="test2\test2.vcproj" Description="Done converting to new project file 'E:\Project\C&amp;&amp;C++\testC++\test2\test2.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="test2" Source="test2\test2.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="thisPointer" Source="thisPointer\thisPointer.vcproj" Description="Converting project file 'E:\Project\C&amp;&amp;C++\testC++\thisPointer\thisPointer.vcproj'.">
+</Event><Event ErrorLevel="1" Project="thisPointer" Source="thisPointer\thisPointer.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="thisPointer" Source="thisPointer\thisPointer.vcproj" Description="Done converting to new project file 'E:\Project\C&amp;&amp;C++\testC++\thisPointer\thisPointer.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="thisPointer" Source="thisPointer\thisPointer.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="quote" Source="quote\quote.vcproj" Description="Converting project file 'E:\Project\C&amp;&amp;C++\testC++\quote\quote.vcproj'.">
+</Event><Event ErrorLevel="1" Project="quote" Source="quote\quote.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="quote" Source="quote\quote.vcproj" Description="Done converting to new project file 'E:\Project\C&amp;&amp;C++\testC++\quote\quote.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="quote" Source="quote\quote.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="function" Source="function\function.vcproj" Description="Converting project file 'E:\Project\C&amp;&amp;C++\testC++\function\function.vcproj'.">
+</Event><Event ErrorLevel="1" Project="function" Source="function\function.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="function" Source="function\function.vcproj" Description="Done converting to new project file 'E:\Project\C&amp;&amp;C++\testC++\function\function.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="function" Source="function\function.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="copyConstructor" Source="copyConstructor\copyConstructor.vcproj" Description="Converting project file 'E:\Project\C&amp;&amp;C++\testC++\copyConstructor\copyConstructor.vcproj'.">
+</Event><Event ErrorLevel="1" Project="copyConstructor" Source="copyConstructor\copyConstructor.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="copyConstructor" Source="copyConstructor\copyConstructor.vcproj" Description="Done converting to new project file 'E:\Project\C&amp;&amp;C++\testC++\copyConstructor\copyConstructor.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="copyConstructor" Source="copyConstructor\copyConstructor.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="operator" Source="operator\operator.vcproj" Description="Converting project file 'E:\Project\C&amp;&amp;C++\testC++\operator\operator.vcproj'.">
+</Event><Event ErrorLevel="1" Project="operator" Source="operator\operator.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="operator" Source="operator\operator.vcproj" Description="Done converting to new project file 'E:\Project\C&amp;&amp;C++\testC++\operator\operator.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="operator" Source="operator\operator.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="derived class" Source="derived class\derived class.vcproj" Description="Converting project file 'E:\Project\C&amp;&amp;C++\testC++\derived class\derived class.vcproj'.">
+</Event><Event ErrorLevel="1" Project="derived class" Source="derived class\derived class.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="derived class" Source="derived class\derived class.vcproj" Description="Done converting to new project file 'E:\Project\C&amp;&amp;C++\testC++\derived class\derived class.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="derived class" Source="derived class\derived class.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="virtual" Source="virtual\virtual.vcproj" Description="Converting project file 'E:\Project\C&amp;&amp;C++\testC++\virtual\virtual.vcproj'.">
+</Event><Event ErrorLevel="1" Project="virtual" Source="virtual\virtual.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="virtual" Source="virtual\virtual.vcproj" Description="Done converting to new project file 'E:\Project\C&amp;&amp;C++\testC++\virtual\virtual.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="virtual" Source="virtual\virtual.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="array" Source="array\array.vcproj" Description="Converting project file 'E:\Project\C&amp;&amp;C++\testC++\array\array.vcproj'.">
+</Event><Event ErrorLevel="1" Project="array" Source="array\array.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="array" Source="array\array.vcproj" Description="Done converting to new project file 'E:\Project\C&amp;&amp;C++\testC++\array\array.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="array" Source="array\array.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="linkList" Source="linkList\linkList.vcproj" Description="Converting project file 'E:\Project\C&amp;&amp;C++\testC++\linkList\linkList.vcproj'.">
+</Event><Event ErrorLevel="1" Project="linkList" Source="linkList\linkList.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="linkList" Source="linkList\linkList.vcproj" Description="Done converting to new project file 'E:\Project\C&amp;&amp;C++\testC++\linkList\linkList.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="linkList" Source="linkList\linkList.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Polymorphism" Source="Polymorphism\Polymorphism.vcproj" Description="Converting project file 'E:\Project\C&amp;&amp;C++\testC++\Polymorphism\Polymorphism.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Polymorphism" Source="Polymorphism\Polymorphism.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="Polymorphism" Source="Polymorphism\Polymorphism.vcproj" Description="Done converting to new project file 'E:\Project\C&amp;&amp;C++\testC++\Polymorphism\Polymorphism.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Polymorphism" Source="Polymorphism\Polymorphism.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="抽象类" Source="抽象类\抽象类.vcproj" Description="Converting project file 'E:\Project\C&amp;&amp;C++\testC++\抽象类\抽象类.vcproj'.">
+</Event><Event ErrorLevel="1" Project="抽象类" Source="抽象类\抽象类.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="抽象类" Source="抽象类\抽象类.vcproj" Description="Done converting to new project file 'E:\Project\C&amp;&amp;C++\testC++\抽象类\抽象类.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="抽象类" Source="抽象类\抽象类.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="a_test" Source="a_test\a_test.vcproj" Description="Converting project file 'E:\Project\C&amp;&amp;C++\testC++\a_test\a_test.vcproj'.">
+</Event><Event ErrorLevel="1" Project="a_test" Source="a_test\a_test.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="a_test" Source="a_test\a_test.vcproj" Description="Done converting to new project file 'E:\Project\C&amp;&amp;C++\testC++\a_test\a_test.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="a_test" Source="a_test\a_test.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="static" Source="static\static.vcproj" Description="Converting project file 'E:\Project\C&amp;&amp;C++\testC++\static\static.vcproj'.">
+</Event><Event ErrorLevel="1" Project="static" Source="static\static.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="static" Source="static\static.vcproj" Description="Done converting to new project file 'E:\Project\C&amp;&amp;C++\testC++\static\static.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="static" Source="static\static.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="函数指针" Source="函数指针\函数指针.vcproj" Description="Converting project file 'E:\Project\C&amp;&amp;C++\testC++\函数指针\函数指针.vcproj'.">
+</Event><Event ErrorLevel="1" Project="函数指针" Source="函数指针\函数指针.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="函数指针" Source="函数指针\函数指针.vcproj" Description="Done converting to new project file 'E:\Project\C&amp;&amp;C++\testC++\函数指针\函数指针.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="函数指针" Source="函数指针\函数指针.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="友元和嵌套类" Source="友元和嵌套类\友元和嵌套类.vcproj" Description="Converting project file 'E:\Project\C&amp;&amp;C++\testC++\友元和嵌套类\友元和嵌套类.vcproj'.">
+</Event><Event ErrorLevel="1" Project="友元和嵌套类" Source="友元和嵌套类\友元和嵌套类.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="友元和嵌套类" Source="友元和嵌套类\友元和嵌套类.vcproj" Description="Done converting to new project file 'E:\Project\C&amp;&amp;C++\testC++\友元和嵌套类\友元和嵌套类.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="友元和嵌套类" Source="友元和嵌套类\友元和嵌套类.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="流" Source="流\流.vcproj" Description="Converting project file 'E:\Project\C&amp;&amp;C++\testC++\流\流.vcproj'.">
+</Event><Event ErrorLevel="1" Project="流" Source="流\流.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="流" Source="流\流.vcproj" Description="Done converting to new project file 'E:\Project\C&amp;&amp;C++\testC++\流\流.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="流" Source="流\流.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="命名空间" Source="命名空间\命名空间.vcproj" Description="Converting project file 'E:\Project\C&amp;&amp;C++\testC++\命名空间\命名空间.vcproj'.">
+</Event><Event ErrorLevel="1" Project="命名空间" Source="命名空间\命名空间.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="命名空间" Source="命名空间\命名空间.vcproj" Description="Done converting to new project file 'E:\Project\C&amp;&amp;C++\testC++\命名空间\命名空间.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="命名空间" Source="命名空间\命名空间.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="STL" Source="STL\STL.vcproj" Description="Converting project file 'E:\Project\C&amp;&amp;C++\testC++\STL\STL.vcproj'.">
+</Event><Event ErrorLevel="1" Project="STL" Source="STL\STL.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="STL" Source="STL\STL.vcproj" Description="Done converting to new project file 'E:\Project\C&amp;&amp;C++\testC++\STL\STL.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="STL" Source="STL\STL.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="testC++.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="testC++.sln" Description="Converted">
+</Event></UpgradeLog>

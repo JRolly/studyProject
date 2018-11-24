@@ -1,0 +1,129 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: mazeGame - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\Jaysi\AppData\Local\Temp\RSP92D2.tmp" with contents
+[
+/nologo /MTd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Debug/mazeGame.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\Project\C&&C++\mazeGame\mazeGame\GameApp.cpp"
+]
+Creating command line "cl.exe @C:\Users\Jaysi\AppData\Local\Temp\RSP92D2.tmp" 
+Creating command line "link.exe /nologo /subsystem:windows /incremental:yes /pdb:"Debug/mazeGame.pdb" /debug /machine:I386 /out:"Debug/mazeGame.exe" /pdbtype:sept  ".\Debug\GameApp.obj" ".\Debug\GameWnd.obj" ".\Debug\mazeGame.res" "
+<h3>Output Window</h3>
+Compiling...
+GameApp.cpp
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(22) : error C2061: syntax error : identifier 'GAmeWnd'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : error C2143: syntax error : missing ';' before '}'
+e:\project\c&&c++\mazegame\mazegame\gameapp.cpp(25) : fatal error C1003: error count exceeds 100; stopping compilation
+Ö´ÐÐ cl.exe Ê±³ö´í.
+
+
+
+<h3>Results</h3>
+mazeGame.exe - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

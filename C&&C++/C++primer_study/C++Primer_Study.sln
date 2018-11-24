@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "C++Primer_Study", "C++Primer_Study", "{4686AF44-D88E-4556-8688-B244E927F08A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "关联容器", "关联容器\关联容器.vcxproj", "{5785D177-3980-46FA-8F8B-2576FB18605E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Type_String", "Type_String\Type_String.vcxproj", "{D8EBCB40-A907-4A53-9DDE-51C4CBE88123}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "容器与算法相关", "容器与算法相关\容器与算法相关.vcxproj", "{43ED30E0-7113-4906-804A-853CDF5B4626}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类", "类\类.vcxproj", "{F8AE33BA-096B-472C-9AED-43D8413AF789}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "STL", "STL\STL.vcxproj", "{B1FE484B-4481-43A2-AF88-2BF8F38349ED}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "testC++", "testC++\testC++.vcxproj", "{AF36130D-73A8-4D6F-8C0C-1349E17D0823}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5785D177-3980-46FA-8F8B-2576FB18605E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5785D177-3980-46FA-8F8B-2576FB18605E}.Release|Win32.ActiveCfg = Release|Win32
+		{5785D177-3980-46FA-8F8B-2576FB18605E}.Release|Win32.Build.0 = Release|Win32
+		{D8EBCB40-A907-4A53-9DDE-51C4CBE88123}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D8EBCB40-A907-4A53-9DDE-51C4CBE88123}.Release|Win32.ActiveCfg = Release|Win32
+		{D8EBCB40-A907-4A53-9DDE-51C4CBE88123}.Release|Win32.Build.0 = Release|Win32
+		{43ED30E0-7113-4906-804A-853CDF5B4626}.Debug|Win32.ActiveCfg = Debug|Win32
+		{43ED30E0-7113-4906-804A-853CDF5B4626}.Release|Win32.ActiveCfg = Release|Win32
+		{43ED30E0-7113-4906-804A-853CDF5B4626}.Release|Win32.Build.0 = Release|Win32
+		{F8AE33BA-096B-472C-9AED-43D8413AF789}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F8AE33BA-096B-472C-9AED-43D8413AF789}.Release|Win32.ActiveCfg = Release|Win32
+		{F8AE33BA-096B-472C-9AED-43D8413AF789}.Release|Win32.Build.0 = Release|Win32
+		{B1FE484B-4481-43A2-AF88-2BF8F38349ED}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B1FE484B-4481-43A2-AF88-2BF8F38349ED}.Release|Win32.ActiveCfg = Release|Win32
+		{B1FE484B-4481-43A2-AF88-2BF8F38349ED}.Release|Win32.Build.0 = Release|Win32
+		{AF36130D-73A8-4D6F-8C0C-1349E17D0823}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AF36130D-73A8-4D6F-8C0C-1349E17D0823}.Debug|Win32.Build.0 = Debug|Win32
+		{AF36130D-73A8-4D6F-8C0C-1349E17D0823}.Release|Win32.ActiveCfg = Release|Win32
+		{AF36130D-73A8-4D6F-8C0C-1349E17D0823}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5785D177-3980-46FA-8F8B-2576FB18605E} = {4686AF44-D88E-4556-8688-B244E927F08A}
+		{D8EBCB40-A907-4A53-9DDE-51C4CBE88123} = {4686AF44-D88E-4556-8688-B244E927F08A}
+		{43ED30E0-7113-4906-804A-853CDF5B4626} = {4686AF44-D88E-4556-8688-B244E927F08A}
+		{F8AE33BA-096B-472C-9AED-43D8413AF789} = {4686AF44-D88E-4556-8688-B244E927F08A}
+		{B1FE484B-4481-43A2-AF88-2BF8F38349ED} = {4686AF44-D88E-4556-8688-B244E927F08A}
+	EndGlobalSection
+EndGlobal

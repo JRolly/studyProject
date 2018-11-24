@@ -1,0 +1,24 @@
+public class Main
+{
+	public static void main(String[] args)
+	{
+//		Cat cat = new Cat();
+//		cat.speak();
+//		
+//		Dog dog = new Dog();
+//		dog.speak();
+		
+//		Test t = new Test();
+//
+//		TestChild tc = new TestChild();
+//		
+//		System.out.println(tc instanceof TestChild);
+		
+		Simple s1 = Simple.GetInstance();
+		Simple s2 = Simple.GetInstance();
+		System.out.println(s1 == s2);
+		
+		TypeBox tb = new TypeBox();
+		tb.TestTypeBox();
+	}
+}

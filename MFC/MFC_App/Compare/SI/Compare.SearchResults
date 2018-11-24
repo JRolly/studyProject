@@ -1,0 +1,4 @@
+---- FormatHexLine Matches (3 in 2 files) ----
+CompareDlg.cpp (compare):	CString str = FormatHexLine(pPtr, 10, dwOffset / 10);
+CompareDlg.cpp (compare):CString CCompareDlg::FormatHexLine(LPBYTE pData, int nBytesInLine, ULONG64 uLineOffset)
+CompareDlg.h (compare):	CString FormatHexLine(LPBYTE pData, int nBytesInLine, ULONG64 uLineOffset);

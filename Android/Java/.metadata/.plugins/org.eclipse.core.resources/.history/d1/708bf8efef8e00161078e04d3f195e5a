@@ -1,0 +1,17 @@
+public class Main
+{
+	public static void main(String[] args)
+	{
+//		Cat cat = new Cat();
+//		cat.speak();
+//		
+//		Dog dog = new Dog();
+//		dog.speak();
+		
+		Test t = new Test();
+
+		TestChild tc = new TestChild();
+		
+		System.out.println(tc instanceof TestChild);
+	}
+}

@@ -1,0 +1,9 @@
+# ignore file
+*.sdf
+*.db
+*.log
+
+# ignore folder
+ipch/
+Debug/
+Release/
